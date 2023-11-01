@@ -1,3 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 18px;
+}
+
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
@@ -17,6 +27,6 @@ code {
   --gray: hsl(0, 0%, 75%);
   --grayish-violet:hsl(257, 7%, 63%);
   --very-dark-blue: hsl(255, 11%, 22%);
-  --very-dark-violet : hsl(260, 8%, 14%)
+  --very-dark-violet : hsl(260, 8%, 14%);
 }
 
